@@ -34,6 +34,6 @@
 ---
 
 ## 🆓 Live Demo
-👉 Try ObjectSpeak Live
+👉 https://objectspeak-ba2d93e3429b.herokuapp.com/
 
 No download. Just open the link and start detecting objects.
