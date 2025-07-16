@@ -31,3 +31,9 @@
 - 🧠 Educational tool for children
 - ⚙️ Quick object labeling for demos or prototyping
 
+---
+
+## 🆓 Live Demo
+👉 Try ObjectSpeak Live
+
+No download. Just open the link and start detecting objects.
