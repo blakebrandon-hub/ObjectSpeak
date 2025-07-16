@@ -31,7 +31,3 @@
 - 🧠 Educational tool for children
 - ⚙️ Quick object labeling for demos or prototyping
 
----
-
-## 📂 Project Structure
-
